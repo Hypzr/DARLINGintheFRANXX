@@ -1,6 +1,7 @@
-/*//META{"name":"Zero Two - DitF beta","description":"DARLING in the FRANXX theme based on Purple Wizard's ELYSIA theme","author":"Bun/Hypzr","version":"0.0.2"}*//*/
+/*//META{"name":"Zero Two - DitF beta","description":"DARLING in the FRANXX theme based on Purple Wizard's ELYSIA theme","author":"Bun/Hypzr","version":"0.0.2"}//*/
 
 @import url(https://raw.githubusercontent.com/Hypzr/DARLINGintheFRANXX/master/DitF/DARLINGintheFRANXX.theme.css);
+
 :root {
         --Title: "ダリフラ";
         --logo: url(https://cdn.discordapp.com/attachments/656589760869040148/676945011354501151/XX.png);
