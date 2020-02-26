@@ -26,3 +26,7 @@ DISCORD: https://discord.gg/xAV58ZB
 - https://github.com/Arashiryuu/crap/tree/master/ToastIntegrated/MemberCount
 - https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OwnerTag
 - https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/TopRoleEverywhere
+
+## RECOMMENDED ACCESSIBILITY SETTINGS
+
+http://prntscr.com/r7pd6o
